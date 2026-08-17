@@ -89,7 +89,7 @@ Registro da conexão remota segura via SSH, instalação do ambiente Python (`pi
 
 ## 📁 Estrutura do Repositório
 
-````text
+```text
 ├── source/                      # Diretório de imagens para a documentação
 │   ├── cloud-oracle.png
 │   ├── site-ar.png
@@ -107,10 +107,8 @@ Se desejar clonar e rodar este projeto na sua própria máquina, siga os passos 
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
-````
+git clone https://github.com/Pablobrek-bit/alura-agent-server
+```
 
 2. Instale as dependências:
 
